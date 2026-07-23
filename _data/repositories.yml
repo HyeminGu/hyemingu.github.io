@@ -1,6 +1,8 @@
 github_users:
 
 publication_repos:
+  - HyeminGu/PROFET
+  - tuhinsahai/ISOMORPH
   - HyeminGu/Wasserstein-1_Wasserstein-2_generative_flow
   - HyeminGu/Proximal_generative_models
   - HyeminGu/Lipschitz_regularized_generative_particles_algorithm
