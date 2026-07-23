@@ -195,6 +195,23 @@
       {% if entry.arxiv %}
         <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
       {% endif %}
+      {% if entry.biorxiv %}
+        {% if entry.biorxiv contains '://' %}
+          <a href="{{ entry.biorxiv }}" class="btn btn-sm z-depth-0" role="button">bioRxiv</a>
+        {% else %}
+          <a href="https://www.biorxiv.org/content/{{ entry.biorxiv }}" class="btn btn-sm z-depth-0" role="button">bioRxiv</a>
+        {% endif %}
+      {% endif %}
+      {% if entry.doi %}
+        {% if entry.doi contains '://' %}
+          <a href="{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+        {% else %}
+          <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
+        {% endif %}
+      {% endif %}
+      {% if entry.demo %}
+        <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
+      {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
       {% endif %}
