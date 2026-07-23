@@ -31,6 +31,6 @@ Under DARPA's _The Right Space_ (TRAGOS) program, I am developing principled mac
 
 Barbara Oakley, in her book _A Mind for Numbers_, highlights a common challenge in both mathematics and applied fields:
 
-> The challenge is that it's often easier to pick up on a mathematical idea if it is applied directly to a concrete problem -- even though that can make it more difficult to transfer the mathematical idea to new areas later. Unsurprisingly, there ends up being a constant tussle between concrete and abstract approaches to learning mathematics. Mathematicians try to hold the high ground by stepping back to make sure that abstract approaches are central to the learning process. In contrast, engineering, business, and many other professions all naturally gravitate toward math that focuses on their specific areas to help build student engagement and avoid the complaint of "When am I ever going to use this?"
+> The challenge is that it's often easier to pick up on a mathematical idea if it is applied directly to a concrete problem -- even though that can make it more difficult to transfer the mathematical idea to new areas later. Unsurprisingly, there ends up being a constant tussle between concrete and abstract approaches to learning mathematics. 
 
-My longer-term goal is to narrow this gap by letting insights from mathematical theory and applied problems continuously reshape one another.
+My long-term goal is to let mathematical theory and real-world applications continuously inform and strengthen one another.
