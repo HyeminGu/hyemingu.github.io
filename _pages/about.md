@@ -29,8 +29,4 @@ My work centers on
 
 Under DARPA's _The Right Space_ (TRAGOS) program, I am developing principled machine learning architectures for complex learning and optimization, together with dynamical-system simulators for supply-chain networks. This includes stable residual neural architectures characterized through Hamilton–Jacobi and optimal-control formulations, and ISOMORPH, a Markov-chain-based digital twin of multi-echelon logistics networks for scalable simulation and forecasting benchmarks. In parallel, I lead the mathematical and algorithmic development of PROFET, a gradient-flow-based generative framework for continuous trajectory inference from sparse scRNA-seq data.
 
-Barbara Oakley, in her book _A Mind for Numbers_, highlights a common challenge in both mathematics and applied fields:
-
-> The challenge is that it's often easier to pick up on a mathematical idea if it is applied directly to a concrete problem -- even though that can make it more difficult to transfer the mathematical idea to new areas later. Unsurprisingly, there ends up being a constant tussle between concrete and abstract approaches to learning mathematics. 
-
-My long-term goal is to let mathematical theory and real-world applications continuously inform and strengthen one another.
+A recurring challenge in mathematical sciences is balancing abstraction, which enables transferability across domains, with concrete problem formulations, which often drive practical advances. My long-term goal is to let mathematical theory and real-world applications continuously inform and strengthen one another.
