@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: Github repositories for coding works.
-nav: true
+nav: false
 nav_order: 3
 ---
 
