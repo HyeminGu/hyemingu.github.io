@@ -19,7 +19,7 @@ I am a postdoctoral researcher in Markos Katsoulakis's group at UMass Amherst, w
 
 **Research interests.** Mathematically grounded machine learning; generative modeling; stable learning algorithms; scientific applications of machine learning.
 
-<b>Current research directions.</b>
+**Current research directions.**
 
 <ul>
     <li>mathematically characterizing <b>stable learning architectures</b> for reliable training and generalization;</li>
