@@ -27,5 +27,4 @@ I am a postdoctoral researcher in Markos Katsoulakis's group at UMass Amherst, w
     <li>developing scalable computational methods for <b>scientific applications</b>, including single-cell dynamics and supply-chain networks.</li>
 </ul>
 
-
 A recurring challenge in mathematical sciences is balancing abstraction, which enables transferability across domains, with concrete problem formulations, which often drive practical advances. My long-term goal is to let mathematical theory and real-world applications continuously inform and strengthen one another.
